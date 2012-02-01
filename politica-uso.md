@@ -47,7 +47,7 @@ O fórum possui alguns moderadores, no caso:
 * Rodrigo Franco - [@caffo](http://twitter.com/caffo)
 * Felipe Coury - [@fcoury](http://twitter.com/fcoury)
 * Glaucio Guerra
-* Marcos Tapajós - [@tapajos](http://twitter.com/tapajos)
+* Marcos Tapajós - [@tapajos](http://twitter.com/tapajos) - [e-mail](mailto:tapajos@gmail.com)
 * Ozéias Sant'ana - [@ozeias](http://twitter.com/ozeias)
 * Rafael Rosa Fu - [@rafaelrosafu](http://twitter.com/rafaelrosafu) - [e-mail](mailto:rafaelrosafu@gmail.com)
 * Ricardo Shiota Yasuda [@shadowmaru](http://twitter.com/shadowmaru)
