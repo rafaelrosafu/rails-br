@@ -9,6 +9,8 @@ Objetivo da política de uso
 ---------------------------
 A política de uso do fórum estipula o que pode ou não ser publicado, orientações gerais de conduta e explicita quais as sanções àqueles que não respeitarem essas regras. Ela visa garantir a qualidade do conteúdo e assegurar uma convivência pacífica e respeitosa entre seus membros, seguindo as leis do país e boas práticas de netiqueta. Gostaríamos de evitar ao máximo a necessidade de aplicar sanções a qualquer membro.
 
+Haverá um link para essa política no rodapé padrão do fórum, ela será enviada para novos membros no momento em que sua entrada for aprovada e será reenviada para a lista de tempos em tempos. Comentários e sugestões de melhoria são bem-vindos.
+
 Conteúdos bem-vindos e orientações gerais
 -----------------------------------------
 
