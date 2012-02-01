@@ -46,7 +46,7 @@ O fórum possui alguns moderadores, no caso:
 * Felipe Coury - [@fcoury](http://twitter.com/fcoury)
 * Glaucio Guerra
 * Marcos Tapajós - [@tapajos](http://twitter.com/tapajos)
-* Ozéias Sant"'"ana - [@ozeias](http://twitter.com/ozeias)
+* Ozéias Sant'ana - [@ozeias](http://twitter.com/ozeias)
 * Rafael Rosa Fu - [@rafaelrosafu](http://twitter.com/rafaelrosafu) - [e-mail](mailto:rafaelrosafu@gmail.com)
 * Ricardo Shiota Yasuda [@shadowmaru](http://twitter.com/shadowmaru)
 * Taiza Souza
