@@ -1,0 +1,1 @@
+1. Ronaldo Possan em 02/02/2012 por enviar OT. Thread: https://groups.google.com/group/rails-br/browse_thread/thread/ecb3df94043566c9
