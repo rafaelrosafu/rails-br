@@ -1,1 +1,2 @@
 1. Ronaldo Possan em 02/02/2012 por enviar OT. Thread: https://groups.google.com/group/rails-br/browse_thread/thread/ecb3df94043566c9
+2. Rudi Leismann em 24/04/2012 por enviar OT. Thread: http://groups.google.com/group/rails-br/browse_thread/thread/81d26a94be54ab21
