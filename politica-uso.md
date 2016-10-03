@@ -3,7 +3,7 @@ Política de Uso do Fórum Rails-BR
 
 Histórico
 ---------
-A __Rails-BR__ é o maior e mais antigo fórum sobre Ruby e Ruby on Rails do Brasil, __fundada em 2005 por Rodrigo Franco__ (aka [@caffo](http://twitter.com/caffo)) e conta com mais de 2100 membros. Ela foi criada com o intuito de difundir o conhecimento sobre Ruby e Rails e facilitar a comunicação entre seus usuários no Brasil.
+A __Rails-BR__ é o maior e mais antigo fórum sobre Ruby e Ruby on Rails do Brasil, __fundada em 2005 por Rodrigo Franco__ (aka [@caffo](http://twitter.com/caffo)) e conta com mais de 4000 membros. Ela foi criada com o intuito de difundir o conhecimento sobre Ruby e Rails e facilitar a comunicação entre seus usuários no Brasil.
 
 Objetivo da política de uso
 ---------------------------
@@ -18,9 +18,11 @@ Conteúdos bem-vindos e orientações gerais
 * __Antes de perguntar na lista, procure sua dúvida no fórum__, é bastante provável que alguém já tenha passado pelo mesmo problema e que algumas soluções já tenham sido dadas.
 * Se não encontrar na lista, procure em [google.com][g] e [stackoverflow.com][so], eles são seus amigos.
 * Se conseguir resolver uma dúvida levantada na lista, envie uma mensagem com a solução final, outras pessoas irão se beneficiar dela no futuro.
+* Não faça up do seu próprio tópico. Se ele não foi respondido, ele está mal redigido ou é muito particular do seu projeto. O fórum não é seu suporte particular. Insistência em up de tópicos gerará advertência na primeira vez e banimento nas posteriores.
+* Não poste código diretamente na mensagem e muito menos screenshots. Use serviços como [https://gist.github.com][gist]
 * Sempre que possível, coloque links para referências. Isso ajuda as pessoas a responder dúvidas, entender melhor o contexto do seu problema e facilita o acesso às informações.
 * Sempre que citar ou utilizar o trabalho de alguém, dê o devido crédito a elas.
-* É permitido postar vagas de emprego desde que relativas à Ruby/Rails ou tecnologias correlatas. Pedimos que envie apenas uma mensagem curta falando sobre a vaga com um e-mail para esclarecimento de dúvidas e contatos, e um link para o anúncio completo num site externo, como o [OndeTrabalhar.com][ot] ou similares.
+* É permitido postar vagas de emprego desde que relativas à Ruby/Rails ou tecnologias correlatas. Pedimos que envie apenas uma mensagem curta falando sobre a vaga com um e-mail para esclarecimento de dúvidas e contatos, e um link para o anúncio completo num site externo, como o [OndeTrabalhar.com][ot] ou similares. É obrigatório informar local de trabalho, regime ( CLT / PJ / Freelancer ) e faixa salarial.
 * Avisos sobre eventos de tecnologia são bem-vindos.
 * Se você pensou em mandar uma mensagem marcada como __OFF-TOPIC__, provavelmente ela não combina com esse fórum.
 * Evite mensagens com dezenas de erros ortográficos e gramaticais, todos já passaram da 5a série.
@@ -52,9 +54,11 @@ O fórum possui alguns moderadores, no caso:
 * Rafael Rosa Fu - [@rafaelrosafu](http://twitter.com/rafaelrosafu) - [e-mail](mailto:rafaelrosafu@gmail.com)
 * Ricardo Shiota Yasuda [@shadowmaru](http://twitter.com/shadowmaru)
 * Taiza Souza
+* Alex Takitani
 
 Nossa função é assegurar que a política de uso será respeitada e fomentar a comunidade que utiliza o site. Se tiverem dúvidas, por favor entrem em contato.
 
 [g]: http://google.com.br
 [so]: http://stackoverflow.com
 [ot]: http://ondetrabalhar.com
+[gist]: https://gist.github.com
